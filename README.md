@@ -8,12 +8,10 @@ Automated Feedback Generation (AFG) technique repair students wrong programs and
 
 We use dataset of Refactory. See the [ASE-2019 Refactory paper](https://ieeexplore.ieee.org/abstract/document/8952522). for more details.
 
-data.pkl : The original dataset.
-preproc.pkl : Preprocessed dataset
-refactor_sample_100_0.pickle : Refactored Correct programs for 1 reference program by Refactory
-refactory_online.csv : Result of Refactory executed with 1 correct program(reference.py)
-
-preproc.pkl
+data.pkl : The original dataset.  
+preproc.pkl : Preprocessed dataset  
+refactor_sample_100_0.pickle : Refactored Correct programs for 1 reference program by Refactory  
+refactory_online.csv : Result of Refactory executed with 1 correct program(reference.py)  
 
 ```
 |-data
